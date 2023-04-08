@@ -1,0 +1,5 @@
+temp/
+*.bat
+
+.idea/
+.DS_Store
